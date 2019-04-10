@@ -25,16 +25,24 @@ function imgNext(){
 }
 
 function imgPrevious(){
-  
-if (count <= listImages.length)
-  count=4;
-  listImages[indexLastImage].classList.add("displayNone"); 
-  listImages[0].classList.remove("displayNone");
-  count--;
+
+  console.log (count);
+  listImages[count].classList.remove("displayNone")
+  listImages[0].classList.add("displayNone");
+
+ 
+if(count == 0 ){
+
+count = indexLastImage;
+
 
 }
 
+
+
 }
+
+
 
 
 
