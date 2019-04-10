@@ -1,0 +1,22 @@
+ .imgCarousel {
+    
+width: 70vw;
+text-align: center;
+
+
+}
+
+
+ul {
+
+list-style: none;
+
+text-align: center;
+}
+
+
+.displayNone {
+
+display :none;
+
+}
