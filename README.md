@@ -4,6 +4,6 @@
 - Mettre des images.
 - lier le bouton et les images.
 
-## bounus
+## bonus
 
-- Ajouter un bouton "précedent"
+- Ajouter un bouton "précedent".
