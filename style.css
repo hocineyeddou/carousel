@@ -1,3 +1,9 @@
+ body{
+
+    
+    background-color: Silver;
+ }
+ 
  .imgCarousel {
     
 width: 70vw;
@@ -18,5 +24,9 @@ text-align: center;
 .displayNone {
 
 display :none;
+
+}
+h1 {
+text-align: center;
 
 }
